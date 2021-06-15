@@ -1,7 +1,7 @@
 # ST2110-20-to-PNG
 Converts SMPTE ST 2110-20 PCAP file to PNG image file.
 
-Project Lead: Thomas Edwards (thomas.edwards@disney.com)
+Project Lead: Thomas Edwards (AWS)
 
 This program will search in a pcap file for the first
 full frame of video (based on RTP marker bits) and
